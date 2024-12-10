@@ -1,0 +1,11 @@
+# Pastas geradas automaticamente pelo Visual Studio
+.vs/
+bin/
+obj/
+
+# Arquivos temporários e de configuração local
+*.user
+*.log
+
+# Configurações sensíveis
+appsettings.json
